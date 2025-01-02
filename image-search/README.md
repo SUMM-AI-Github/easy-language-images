@@ -122,7 +122,7 @@ This project leverages [Qdrant](https://qdrant.tech/) for efficient vector searc
 
 We provide a Gradio app that allows you to easily interact with the entire pipeline through an intuitive interface, as shown in the screenshot below: 
 
-![screenshot of gradio app](./docs/gradio_open_source_example.png)
+![screenshot of gradio app](https://github.com/SUMM-AI-Github/easy-language-images/blob/main/image-search/gradio_open_source_example.png)
 
 To launch the Gradio app, run the following command:  
 ```bash
