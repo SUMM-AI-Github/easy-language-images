@@ -124,7 +124,7 @@ Note that the model requires approximately 48 GB of RAM to load and run inferenc
 
 We provide a Gradio app that allows you to easily interact with the entire pipeline through an intuitive interface, as shown in the screenshot below:  
 
-![gradio_app_screenshot](./docs/gradio_open_source_example.png)
+![gradio_app_screenshot](https://github.com/SUMM-AI-Github/easy-language-images/blob/main/image-generation/gradio_open_source_example.png)
 
 To launch the Gradio app, run the following command:  
 ```bash
