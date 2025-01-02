@@ -20,3 +20,4 @@ dockerlogs.txt
 *.jpg
 *.jpeg
 qdrant_data/*
+!gradio_open_source_example.png
